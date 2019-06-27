@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Core", "Xamarin.Forms\Xamarin.Forms.Core\Xamarin.Forms.Core.csproj", "{8C0E839D-C7FC-46D2-8A08-F2D28768709F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Maps.iOS", "Xamarin.Forms\Xamarin.Forms.Maps.iOS\Xamarin.Forms.Maps.iOS.csproj", "{ABA078C4-F9BB-4924-8B2B-10FE0D2F5491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Pages.UnitTests", "Xamarin.Forms\Xamarin.Forms.Pages.UnitTests\Xamarin.Forms.Pages.UnitTests.csproj", "{447DC60E-C485-4427-8CF7-50074C6B61DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C0E839D-C7FC-46D2-8A08-F2D28768709F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0E839D-C7FC-46D2-8A08-F2D28768709F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0E839D-C7FC-46D2-8A08-F2D28768709F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0E839D-C7FC-46D2-8A08-F2D28768709F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABA078C4-F9BB-4924-8B2B-10FE0D2F5491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA078C4-F9BB-4924-8B2B-10FE0D2F5491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA078C4-F9BB-4924-8B2B-10FE0D2F5491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA078C4-F9BB-4924-8B2B-10FE0D2F5491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447DC60E-C485-4427-8CF7-50074C6B61DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447DC60E-C485-4427-8CF7-50074C6B61DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447DC60E-C485-4427-8CF7-50074C6B61DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447DC60E-C485-4427-8CF7-50074C6B61DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
